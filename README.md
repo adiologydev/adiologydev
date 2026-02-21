@@ -5,18 +5,15 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/adityatripathid?label=Follow)](https://twitter.com/adityatripathid)
 [![GitHub followers](https://img.shields.io/github/followers/adiologydev?label=Follow&style=social)](https://github.com/adiologydev)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHkYmDsRxcY_iJXDRs26A3g?style=social)
 
 ----
-🔭 Currently Working on [Climactic](https://climactic.co) and its subsidaries
-
-📫 Let's get social on [Discord](https://discord.gg/cu8aMYw), [Instagram](https://instagram.com/aditya_td), [YouTube](https://youtube.com/AdityaTD) and [Twitter](https://twitter.com/adityatripathid)
+🔭 Founder of [Climactic](https://climactic.co) - Created ColorBuk, Korrektly, Markdown Anything, etc.
 
 🎵 I also make music! Check it out [Spotify](https://open.spotify.com/artist/3MKIyx6JG4TwZNSHnmNyMm), [Apple Music](https://music.apple.com/us/artist/aditya-tripathi/1504395195) and [YouTube](https://youtube.com/AdityaTD)
 
-🖇️ Also visit my [Linkedin](https://www.linkedin.com/in/adityatd) and [Behance](https://www.behance.net/AdityaTD) profile
+🖇️ Also visit my [Linkedin](https://www.linkedin.com/in/adityatd)
 
-⚡ Fun fact! I got my first computer when I was a year old
+⚡ Fun fact! I got my first computer when I was one year old
 
 ----
 
@@ -26,10 +23,6 @@
 </p>
 
 ----
-
-![Stats](https://github-readme-stats.vercel.app/api?username=adiologydev&count_private=true&show_icons=true&theme=dracula)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adiologydev&layout=compact&count_private=true&theme=dracula)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=adiologydev&theme=highcontrast)](https://git.io/streak-stats)
   
